@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 9px 25px;
+    border-radius: 4px;
+    background-color:grey;
+    font-weight: 700;
+}
